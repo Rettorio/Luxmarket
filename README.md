@@ -5,7 +5,7 @@
 
 E-Commerce concept app made with Jetpack Coxmpose and Material3
 
-![GitHub top language](https://img.shields.io/github/languages/top/BobbyESP/Spowlo?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/Rettorio/Luxmarket?style=for-the-badge)
 
 </div>
 
