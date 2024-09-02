@@ -54,3 +54,4 @@ Luxmarket is a concept e-commerce app built with Jetpack Compose and Material 3 
         }
     }
 ```
+You can try the apps from release folder or [here](https://github.com/Rettorio/Luxmarket/raw/main/app/release/app-release.apk)
